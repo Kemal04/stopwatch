@@ -19,7 +19,7 @@ function App() {
             <div className='container mt-3'>
                 <div className='row align-items-center justify-content-center'>
                     <div className='col-xl-auto mb-5 text-end'>
-                        <div className='h1'>Tamdyr Lezzeti <i className='text-primary'>{t('1')}</i></div>
+                        <div className='h1'>TL Batut</div>
                     </div>
                     <div className='col-xl-auto mb-5'>
                         <div style={{ width: "100px" }}>
